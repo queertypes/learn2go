@@ -3,6 +3,7 @@ closures/closures
 conditional-switch/conditional-switch
 dont_care/dont_care
 exercise-sqrt/exercise-sqrt
+exercise-word-count/exercise-word-count
 first-class-functions/first-class-functions
 for-basic/for-basic
 func/func
@@ -20,4 +21,3 @@ struct/struct
 swap-func/swap-func
 switch/switch
 var/var
-word-count/word-count
