@@ -20,3 +20,4 @@ struct/struct
 swap-func/swap-func
 switch/switch
 var/var
+word-count/word-count
