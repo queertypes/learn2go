@@ -15,4 +15,5 @@ range/range
 slice-basic/slice-basic
 struct/struct
 swap-func/swap-func
+switch/switch
 var/var
