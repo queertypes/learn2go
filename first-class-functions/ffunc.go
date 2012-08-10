@@ -6,9 +6,9 @@ import (
 )
 
 func main() {
-	hypot := func(x,y float64) float64 {
+	hypot := func(x, y float64) float64 {
 		return math.Sqrt(x*x + y*y)
 	}
 
-	fmt.Println(hypot, hypot(3,4))
+	fmt.Println(hypot, hypot(3, 4))
 }
